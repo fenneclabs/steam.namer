@@ -71,7 +71,7 @@ public class SteamSearcher {
 						.append(" os:").append(os)
 						//.append(" meta:").append(meta)
 						;
-						if(categories.contains("Cartes à échanger Steam")) {
+						if(categories.contains("Cartes Ã  Ã©changer Steam")) {
 							details.append(" cartes");
 						}
 						
